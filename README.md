@@ -109,10 +109,7 @@ git remove -v
 ```
 
 
-To setup CI/CD pipelines in heroku/vercel(coz heroku is not free ) we need these 3 information:
-1. Vercel_email = sahookrishna2@gmail.com
-2. VERCEL_API_KEY = I6fTdok19NDtPj58aTSrzPDz 
-3. VERCEL_APPLICATION_KEY=machine-learning-project
+
 
 BUILD DOCKER IMAGE
 ```
