@@ -83,7 +83,7 @@ git add <file_name>
 
 NOTE:To Ignore file or folder from git we can write name of file/folder in .gitignore file
 
-To check teh git status
+To check the git status
 ```
 git status
 ```
@@ -137,6 +137,9 @@ To stop docker container
 docker stop <container_id>
 ```
 
-
+To install python packages
+```
+python setup.py install
+```
 
 
